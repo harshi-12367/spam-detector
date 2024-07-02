@@ -34,5 +34,5 @@ The Spam Detector project aims to provide a reliable solution for identifying sp
 <div class="#Licence">
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-</div
+<p>This project is licensed under the MIT License. See the LICENSE file for more details.</p>
+</div>
