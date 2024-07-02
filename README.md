@@ -26,12 +26,13 @@ The Spam Detector project aims to provide a reliable solution for identifying sp
 </div>
 
 <div class ="#Contributing">
+  
 ## Contributing
 <p>We welcome contributions to improve the Spam Detector! If you have suggestions for new features or bug fixes, please open an issue or submit a pull request. For major changes, please discuss them with us first to ensure they align with the project’s goals.</p>
 </div>
 
+<div class="#Licence">
 
 ## License
-<div class="#Licence">
 This project is licensed under the MIT License. See the LICENSE file for more details.
 </div
