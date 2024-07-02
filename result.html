@@ -1,0 +1,15 @@
+
+{% extends 'base.html' %}
+{% block head %}
+    <meta charset="UTF-8">
+    <title>{{url}}</title>
+{% endblock %}
+{% block body %}
+    <div class="mt4 shadow-3 pa4 center index">
+        {% if url=='Ham' %}
+        <img src="{{url_for('static',filename='C:\Users\harsh\Downloads\Ham.jpg')}}">
+        {% else %}
+        <img src="{{url_for('static',filename='C:\Users\harsh\Downloads\Spam.jpg')}}">
+        {% endif %}
+    </div>
+{% endblock %}
